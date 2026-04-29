@@ -1,0 +1,8 @@
+{
+  "name": "edge-proxy-gateway",
+  "version": "2.0.1",
+  "description": "Custom edge routing worker for internal API",
+  "private": true,
+  "license": "ISC",
+  "type": "module"
+}
